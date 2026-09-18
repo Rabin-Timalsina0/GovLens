@@ -46,9 +46,3 @@ npm install
 npm run dev
 ```
 
-## Status
-- [x] Backend MVP architecture setup
-- [x] RAG Ingestion Pipeline (Upload, extract, chunk, embed, store)
-- [x] Chat API with RAG retrieval and structured LLM responses
-- [x] Database schemas
-- [ ] Frontend Implementation (Landing, Chat, Upload) - **Pending**
